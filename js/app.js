@@ -10,11 +10,22 @@ let average = (a1 + a2 + a3 + a4 + a5) / myarr.length;
 console.log(average);
 
 //მეორე (ასო ბგერა 'ლ')
-let myarrs=[
-    {name: "ლაურა", age: "46"};
-    {name: "ლამზირა", age: "57"};
-    {name: "ლალი", age: "54"};
-    {name: "ლილი", age: "28"};
-    {name: "ლულუ", age: "13"};
-]
-console.log(myarrs);
+let geografia = [
+  { name: "ლაურა", age: "46" },
+  { name: "ლამზირა", age: "57" },
+  { name: "ლალი", age: "54" },
+  { name: "ლილი", age: "28" },
+  { name: "ლულუ", age: "13" },
+];
+console.log(geografia);
+
+let პიროვნება = {
+  firstname: "ნუნუ",
+  lastname: "დურგლიშვილი",
+  age: 39,
+  address: "ბობოყვათის მეორე შესახვევი",
+  phonenumber: +995571060011,
+};
+console.log(
+  "My name is ${firstname}, my age is ${age}, my adress is${address}"
+);
