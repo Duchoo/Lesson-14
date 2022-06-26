@@ -44,7 +44,7 @@ body {
   right: 15%;
   animation-delay: 0.3s;
 }
-.shadow {
+/* .shadow {
   width: 20px;
   height: 4px;
   border-radius: 50%;
@@ -55,8 +55,8 @@ body {
   left: 15%;
   filter: blur(1px);
   animation: shadow 0.5s alternate infinite ease;
-}
-@keyframes shadow {
+} */
+/* @keyframes shadow {
   0% {
     transform: scaleX(1.5);
     background-color: #800080;
@@ -80,4 +80,4 @@ body {
   left: auto;
   right: 15%;
   animation-delay: 0.3s;
-}
+} */
