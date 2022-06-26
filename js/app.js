@@ -17,3 +17,4 @@ let myarrs=[
     {name: "ლილი", age: "28"};
     {name: "ლულუ", age: "13"};
 ]
+console.log(myarrs);
